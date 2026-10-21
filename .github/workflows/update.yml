@@ -1,0 +1,52 @@
+name: Update Rundown
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour
+  workflow_dispatch:       # "Run workflow" button on GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # The script lives in the public app repo (davyrockett/rundown, tools/build_data.py).
+      - uses: actions/checkout@v4
+        with:
+          repository: davyrockett/rundown
+          path: app
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read calendars, Planning Center and autocross
+        env:
+          CAL_PERSONAL: ${{ secrets.CAL_PERSONAL }}
+          CAL_RJ: ${{ secrets.CAL_RJ }}
+          CAL_US: ${{ secrets.CAL_US }}
+          PCO_APP_ID: ${{ secrets.PCO_APP_ID }}
+          PCO_SECRET: ${{ secrets.PCO_SECRET }}
+        run: |
+          pip install --quiet icalendar recurring-ical-events
+          python app/tools/build_data.py data.json
+
+      - name: Save changes
+        run: |
+          git config user.name "rundown"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Rundown data"
+            # Rundown may have saved RJ ticks (ticks.json) in the meantime.
+            git pull --rebase --quiet
+            git push
+          fi
