@@ -1,8 +1,114 @@
 {
 "calendars": {
+"personal": "Personal",
 "gigs": "Davy Rockett gigs"
 },
-"events": [],
+"events": [
+{
+"cal": "personal",
+"title": "Wegovy",
+"start": "2026-10-21T15:05",
+"end": "2026-10-21T19:05",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Call mom",
+"start": "2026-10-22T17:00",
+"end": "2026-10-22T18:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Juju and ChaCha",
+"start": "2026-10-24",
+"end": "2026-10-24",
+"allDay": true,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "FUMCCV",
+"start": "2026-10-25T09:30",
+"end": "2026-10-25T12:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "david norgren's Zoom Meeting",
+"start": "2026-10-26T17:00",
+"end": "2026-10-26T17:45",
+"allDay": false,
+"location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
+},
+{
+"cal": "personal",
+"title": "Allison",
+"start": "2026-10-28T15:00",
+"end": "2026-10-28T16:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Wegovy",
+"start": "2026-10-28T15:05",
+"end": "2026-10-28T19:05",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Call mom",
+"start": "2026-10-29T17:00",
+"end": "2026-10-29T18:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Streets of Willow Event",
+"start": "2026-10-31",
+"end": "2026-11-01",
+"allDay": true,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "RaeLynn’s Birthday!",
+"start": "2026-11-01",
+"end": "2026-11-01",
+"allDay": true,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "FUMCCV",
+"start": "2026-11-01T09:30",
+"end": "2026-11-01T12:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "david norgren's Zoom Meeting",
+"start": "2026-11-02T17:00",
+"end": "2026-11-02T17:45",
+"allDay": false,
+"location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
+},
+{
+"cal": "personal",
+"title": "Wegovy",
+"start": "2026-11-04T15:05",
+"end": "2026-11-04T19:05",
+"allDay": false,
+"location": ""
+}
+],
 "rjSessions": [],
 "crossing": null,
 "autocross": [
