@@ -1,0 +1,292 @@
+{
+"calendars": {
+"gigs": "Davy Rockett gigs"
+},
+"events": [],
+"rjSessions": [],
+"crossing": null,
+"autocross": [
+{
+"name": "LVRSCCA (Autocross) Round 8 - 2026",
+"club": "SCCA - Las Vegas Region",
+"start": "2026-10-24",
+"end": "2026-10-24",
+"city": "Las Vegas",
+"region": "NV",
+"miles": 275,
+"url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-8-2026-las-vegas-motor-speed-metro-lot-scca-498096"
+},
+{
+"name": "PCA-LA Autocross Championship Series 10-24-2026",
+"club": "PCA - Los Angeles",
+"start": "2026-10-24",
+"end": "2026-10-24",
+"city": "Anaheim",
+"region": "CA",
+"miles": 86,
+"url": "https://www.motorsportreg.com/events/pca-la-autocross-championship-series-10-24-2026-angel-stadium-los-angeles-675673"
+},
+{
+"name": "Corner Exit APEX Autocross!",
+"club": "Corner Exit",
+"start": "2026-10-25",
+"end": "2026-10-25",
+"city": "Anaheim",
+"region": "CA",
+"miles": 86,
+"url": "https://www.motorsportreg.com/events/corner-exit-angel-stadium-autocross-solo-455738"
+},
+{
+"name": "PASR Solo Autocross School 2026",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2026-10-31",
+"end": "2026-10-31",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/pasr-solo-autocross-school-2026-phoenix-raceway-scca-az-022540"
+},
+{
+"name": "Fall 2026 Event 2 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2026-11-01",
+"end": "2026-11-01",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/fall-2026-event-2-pasr-phoenix-raceway-scca-az-solo-015570"
+},
+{
+"name": "San Diego SCCA Autocross - Nov 7th and 8th",
+"club": "SCCA - San Diego Region - Solo",
+"start": "2026-11-07",
+"end": "2026-11-08",
+"city": "Lake Elsinore",
+"region": "CA",
+"miles": 65,
+"url": "https://www.motorsportreg.com/events/san-diego-scca-autocross-nov-7th-8th-lake-elsinore-storm-stadium-solo-660447"
+},
+{
+"name": "PCA-SDR Autocross November 8, 2026",
+"club": "PCA - San Diego Region",
+"start": "2026-11-08",
+"end": "2026-11-08",
+"city": "Chula Vista",
+"region": "CA",
+"miles": 13,
+"url": "https://www.motorsportreg.com/events/pca-sdr-autocross-november-8-2026-north-island-credit-union-amp-san-diego-483390"
+},
+{
+"name": "Cal Club Autocross November 14th",
+"club": "SCCA - Cal Club Autocross",
+"start": "2026-11-09",
+"end": "2026-11-14",
+"city": "Lake Elsinore",
+"region": "CA",
+"miles": 65,
+"url": "https://www.motorsportreg.com/events/cal-club-autocross-november-14th-storm-stadium-lake-elsinore-scca-324351"
+},
+{
+"name": "CCCR-PCA Autocross #81 11/14/2026",
+"club": "PCA - California Central Coast Region",
+"start": "2026-11-14",
+"end": "2026-11-14",
+"city": "Santa Maria",
+"region": "CA",
+"miles": 242,
+"url": "https://www.motorsportreg.com/events/cccr-pca-autocross-81-11-14-2026-santa-maria-ca-airport-california-central-coast-783624"
+},
+{
+"name": "LVRSCCA (Autocross) Round 9 - 2026",
+"club": "SCCA - Las Vegas Region",
+"start": "2026-11-15",
+"end": "2026-11-15",
+"city": "Las Vegas",
+"region": "NV",
+"miles": 275,
+"url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-9-2026-las-vegas-motor-speed-metro-lot-scca-001010"
+},
+{
+"name": "PCA-LA Autocross Championship Series 11-21-2026",
+"club": "PCA - Los Angeles",
+"start": "2026-11-21",
+"end": "2026-11-21",
+"city": "Anaheim",
+"region": "CA",
+"miles": 86,
+"url": "https://www.motorsportreg.com/events/pca-la-autocross-championship-series-11-21-2026-angel-stadium-los-angeles-409433"
+},
+{
+"name": "Corner Exit Autocross Challenge @ Angel Stadium",
+"club": "Corner Exit",
+"start": "2026-11-22",
+"end": "2026-11-22",
+"city": "Anaheim",
+"region": "CA",
+"miles": 86,
+"url": "https://www.motorsportreg.com/events/corner-exit-angel-stadium-autocross-solo-793429"
+},
+{
+"name": "Autox Nov 28/29, 2026  AZPCA ",
+"club": "PCA - Arizona",
+"start": "2026-11-28",
+"end": "2026-11-29",
+"city": "Avondale",
+"region": "Arizona",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/autox-nov-28-29-2026-azpca-phoenix-raceway-pca-arizona-571222"
+},
+{
+"name": "Fall 2026 Event 4 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2026-12-05",
+"end": "2026-12-05",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/fall-2026-event-4-pasr-phoenix-raceway-scca-az-solo-190419"
+},
+{
+"name": "San Diego SCCA Autocross - Dec 5th and 6th",
+"club": "SCCA - San Diego Region - Solo",
+"start": "2026-12-05",
+"end": "2026-12-06",
+"city": "Lake Elsinore",
+"region": "CA",
+"miles": 65,
+"url": "https://www.motorsportreg.com/events/san-diego-scca-autocross-dec-5th-6th-lake-elsinore-storm-stadium-solo-586081"
+},
+{
+"name": "Corner Exit Autocross Challenge @ Angel Stadium",
+"club": "Corner Exit",
+"start": "2026-12-06",
+"end": "2026-12-06",
+"city": "Anaheim",
+"region": "CA",
+"miles": 86,
+"url": "https://www.motorsportreg.com/events/corner-exit-angel-stadium-autocross-solo-091962"
+},
+{
+"name": "LVRSCCA (Autocross) Round 10 - 2026",
+"club": "SCCA - Las Vegas Region",
+"start": "2026-12-06",
+"end": "2026-12-06",
+"city": "Las Vegas",
+"region": "NV",
+"miles": 275,
+"url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-10-2026-las-vegas-motor-speed-metro-lot-scca-088884"
+},
+{
+"name": "LVRSCCA (Autocross) Round 11 - 2026",
+"club": "SCCA - Las Vegas Region",
+"start": "2026-12-20",
+"end": "2026-12-20",
+"city": "Las Vegas",
+"region": "NV",
+"miles": 275,
+"url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-11-2026-las-vegas-motor-speed-metro-lot-scca-573605"
+},
+{
+"name": "Spring 2027 Event 1 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-01-09",
+"end": "2027-01-09",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/spring-2027-event-1-pasr-phoenix-raceway-scca-az-solo-295259"
+},
+{
+"name": "Autox Jan 16/17, 2027  AZPCA ",
+"club": "PCA - Arizona",
+"start": "2027-01-16",
+"end": "2027-01-17",
+"city": "Avondale",
+"region": "Arizona",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/autox-jan-16-17-2027-azpca-phoenix-raceway-pca-arizona-613972"
+},
+{
+"name": "Spring 2027 Event 2 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-01-24",
+"end": "2027-01-24",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/spring-2027-event-2-pasr-phoenix-raceway-scca-az-solo-512717"
+},
+{
+"name": "Spring 2027 Event 3 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-02-21",
+"end": "2027-02-21",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/spring-2027-event-3-pasr-phoenix-raceway-scca-az-solo-211352"
+},
+{
+"name": "Spring 2027 Event 4 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-04-18",
+"end": "2027-04-18",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/spring-2027-event-4-pasr-phoenix-raceway-scca-az-solo-827861"
+},
+{
+"name": "Fall 2027 Event 1 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-09-19",
+"end": "2027-09-19",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/fall-2027-event-1-pasr-phoenix-raceway-scca-az-solo-667268"
+},
+{
+"name": "Fall 2027 Event 2 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-10-03",
+"end": "2027-10-03",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/fall-2027-event-2-pasr-phoenix-raceway-scca-az-solo-657794"
+},
+{
+"name": "PASR Solo Autocross School 2027",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-11-06",
+"end": "2027-11-06",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/pasr-solo-autocross-school-2027-phoenix-raceway-scca-az-127490"
+},
+{
+"name": "Fall 2027 Event 3 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-11-07",
+"end": "2027-11-07",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/fall-2027-event-3-pasr-phoenix-raceway-scca-az-solo-937097"
+},
+{
+"name": "Fall 2027 Event 4 PASR",
+"club": "SCCA - Phoenix AZ Solo Region",
+"start": "2027-12-04",
+"end": "2027-12-04",
+"city": "Avondale",
+"region": "AZ",
+"miles": 285,
+"url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
+}
+],
+"autocrossChecked": "2026-10-21",
+"errors": {}
+}
