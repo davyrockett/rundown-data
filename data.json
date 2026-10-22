@@ -124,6 +124,14 @@
 "end": "2026-11-04T19:05",
 "allDay": false,
 "location": ""
+},
+{
+"cal": "personal",
+"title": "Call mom",
+"start": "2026-11-05T17:00",
+"end": "2026-11-05T18:00",
+"allDay": false,
+"location": ""
 }
 ],
 "rjSessions": [],
@@ -438,6 +446,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-10-21",
+"autocrossChecked": "2026-10-22",
 "errors": {}
 }
