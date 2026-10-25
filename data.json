@@ -6,14 +6,6 @@
 },
 "events": [
 {
-"cal": "us",
-"title": "Juju, ChaCha, & Bertie",
-"start": "2026-10-23",
-"end": "2026-10-25",
-"allDay": true,
-"location": ""
-},
-{
 "cal": "personal",
 "title": "Juju and ChaCha",
 "start": "2026-10-24",
@@ -148,33 +140,19 @@
 "end": "2026-11-07T20:30",
 "allDay": false,
 "location": "Encinitas Community Center, Encinitas, CA"
+},
+{
+"cal": "personal",
+"title": "FUMCCV",
+"start": "2026-11-08T09:30",
+"end": "2026-11-08T12:00",
+"allDay": false,
+"location": ""
 }
 ],
 "rjSessions": [],
 "crossing": null,
 "autocross": [
-{
-"name": "LVRSCCA (Autocross) Round 8 - 2026",
-"club": "SCCA - Las Vegas Region",
-"start": "2026-10-24",
-"end": "2026-10-24",
-"track": "Las Vegas Motor Speed - Metro Lot",
-"city": "Las Vegas",
-"region": "NV",
-"miles": 275,
-"url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-8-2026-las-vegas-motor-speed-metro-lot-scca-498096"
-},
-{
-"name": "PCA-LA Autocross Championship Series 10-24-2026",
-"club": "PCA - Los Angeles",
-"start": "2026-10-24",
-"end": "2026-10-24",
-"track": "Angel Stadium",
-"city": "Anaheim",
-"region": "CA",
-"miles": 86,
-"url": "https://www.motorsportreg.com/events/pca-la-autocross-championship-series-10-24-2026-angel-stadium-los-angeles-675673"
-},
 {
 "name": "Corner Exit APEX Autocross!",
 "club": "Corner Exit",
@@ -462,6 +440,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-10-24",
+"autocrossChecked": "2026-10-25",
 "errors": {}
 }
