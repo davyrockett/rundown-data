@@ -103,6 +103,14 @@
 },
 {
 "cal": "personal",
+"title": "Zoo Fitting",
+"start": "2026-11-03T17:30",
+"end": "2026-11-03T18:30",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
 "title": "Wegovy",
 "start": "2026-11-04T15:05",
 "end": "2026-11-04T19:05",
