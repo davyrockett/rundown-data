@@ -7,22 +7,6 @@
 "events": [
 {
 "cal": "personal",
-"title": "FUMCCV",
-"start": "2026-10-25T09:30",
-"end": "2026-10-25T12:00",
-"allDay": false,
-"location": ""
-},
-{
-"cal": "us",
-"title": "Date! ❤️",
-"start": "2026-10-25T13:00",
-"end": "2026-10-25T16:00",
-"allDay": false,
-"location": ""
-},
-{
-"cal": "personal",
 "title": "david norgren's Zoom Meeting",
 "start": "2026-10-26T17:00",
 "end": "2026-10-26T17:45",
@@ -224,7 +208,7 @@
 {
 "name": "Cal Club Autocross November 14th",
 "club": "SCCA - Cal Club Autocross",
-"start": "2026-11-09",
+"start": "2026-11-14",
 "end": "2026-11-14",
 "track": "Storm Stadium - Lake Elsinore",
 "city": "Lake Elsinore",
@@ -453,6 +437,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-10-26",
+"autocrossChecked": "2026-10-27",
 "errors": {}
 }
