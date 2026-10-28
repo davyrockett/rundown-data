@@ -7,14 +7,6 @@
 "events": [
 {
 "cal": "personal",
-"title": "david norgren's Zoom Meeting",
-"start": "2026-10-26T17:00",
-"end": "2026-10-26T17:45",
-"allDay": false,
-"location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
-},
-{
-"cal": "personal",
 "title": "Allison",
 "start": "2026-10-28T15:00",
 "end": "2026-10-28T16:00",
@@ -156,6 +148,14 @@
 "end": "2026-11-09T17:45",
 "allDay": false,
 "location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
+},
+{
+"cal": "personal",
+"title": "Wegovy",
+"start": "2026-11-11T15:05",
+"end": "2026-11-11T19:05",
+"allDay": false,
+"location": ""
 }
 ],
 "rjSessions": [],
@@ -208,7 +208,7 @@
 {
 "name": "Cal Club Autocross November 14th",
 "club": "SCCA - Cal Club Autocross",
-"start": "2026-11-14",
+"start": "2026-11-09",
 "end": "2026-11-14",
 "track": "Storm Stadium - Lake Elsinore",
 "city": "Lake Elsinore",
@@ -314,6 +314,17 @@
 "region": "NV",
 "miles": 275,
 "url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-10-2026-las-vegas-motor-speed-metro-lot-scca-088884"
+},
+{
+"name": "Cal Club Autocross Finale December 12th",
+"club": "SCCA - Cal Club Autocross",
+"start": "2026-12-07",
+"end": "2026-12-12",
+"track": "Storm Stadium - Lake Elsinore",
+"city": "Lake Elsinore",
+"region": "CA",
+"miles": 65,
+"url": "https://www.motorsportreg.com/events/cal-club-autocross-finale-december-12th-storm-stadium-lake-elsinore-scca-292305"
 },
 {
 "name": "LVRSCCA (Autocross) Round 11 - 2026",
@@ -437,6 +448,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-10-27",
+"autocrossChecked": "2026-10-28",
 "errors": {}
 }
