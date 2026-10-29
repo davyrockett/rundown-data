@@ -119,6 +119,14 @@
 },
 {
 "cal": "personal",
+"title": "Feed Birds",
+"start": "2026-11-06T17:00",
+"end": "2026-11-06T19:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
 "title": "Elsinore Autocross",
 "start": "2026-11-07",
 "end": "2026-11-08",
