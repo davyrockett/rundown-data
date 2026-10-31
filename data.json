@@ -6,22 +6,6 @@
 },
 "events": [
 {
-"cal": "us",
-"title": "Couples Counseling",
-"start": "2026-10-29T13:00",
-"end": "2026-10-29T14:00",
-"allDay": false,
-"location": "4305 Gesner St, Ste 207"
-},
-{
-"cal": "personal",
-"title": "Call mom",
-"start": "2026-10-29T17:00",
-"end": "2026-10-29T18:00",
-"allDay": false,
-"location": ""
-},
-{
 "cal": "personal",
 "title": "Josh Birthday!",
 "start": "2026-10-30",
@@ -161,6 +145,14 @@
 "cal": "us",
 "title": "Hold for Krueger/Ordoñez Wedding Weekend",
 "start": "2026-11-13",
+"end": "2026-11-15",
+"allDay": true,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Stay at Sarah's Wedding",
+"start": "2026-11-14",
 "end": "2026-11-15",
 "allDay": true,
 "location": ""
@@ -456,6 +448,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-10-30",
+"autocrossChecked": "2026-10-31",
 "errors": {}
 }
