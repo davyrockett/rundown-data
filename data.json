@@ -23,6 +23,14 @@
 },
 {
 "cal": "personal",
+"title": "Rehearse at PJ’s",
+"start": "2026-11-12T13:00",
+"end": "2026-11-12T14:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
 "title": "Call mom",
 "start": "2026-11-12T17:00",
 "end": "2026-11-12T18:00",
