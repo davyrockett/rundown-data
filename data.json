@@ -7,14 +7,6 @@
 "events": [
 {
 "cal": "personal",
-"title": "david norgren's Zoom Meeting",
-"start": "2026-11-09T17:00",
-"end": "2026-11-09T17:45",
-"allDay": false,
-"location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
-},
-{
-"cal": "personal",
 "title": "Wegovy",
 "start": "2026-11-11T15:05",
 "end": "2026-11-11T19:05",
@@ -140,6 +132,14 @@
 "end": "2026-11-28",
 "allDay": true,
 "location": ""
+},
+{
+"cal": "personal",
+"title": "Wegovy",
+"start": "2026-11-25T15:05",
+"end": "2026-11-25T19:05",
+"allDay": false,
+"location": ""
 }
 ],
 "rjSessions": [],
@@ -172,10 +172,10 @@
 "club": "SCCA - Las Vegas Region",
 "start": "2026-11-15",
 "end": "2026-11-15",
-"track": "Las Vegas Motor Speed - Metro Lot",
+"track": "Las Vegas Motor Speedway",
 "city": "Las Vegas",
 "region": "NV",
-"miles": 275,
+"miles": 274,
 "url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-9-2026-las-vegas-motor-speed-metro-lot-scca-001010"
 },
 {
@@ -388,6 +388,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-11-10",
+"autocrossChecked": "2026-11-11",
 "errors": {}
 }
