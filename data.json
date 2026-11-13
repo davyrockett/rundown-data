@@ -71,6 +71,14 @@
 },
 {
 "cal": "personal",
+"title": "Rehearsal at PJs",
+"start": "2026-11-18T15:00",
+"end": "2026-11-18T17:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
 "title": "Wegovy",
 "start": "2026-11-18T15:05",
 "end": "2026-11-18T19:05",
