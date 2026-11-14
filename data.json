@@ -6,22 +6,6 @@
 },
 "events": [
 {
-"cal": "personal",
-"title": "Rehearse at PJ’s",
-"start": "2026-11-12T13:00",
-"end": "2026-11-12T14:00",
-"allDay": false,
-"location": ""
-},
-{
-"cal": "personal",
-"title": "Call mom",
-"start": "2026-11-12T17:00",
-"end": "2026-11-12T18:00",
-"allDay": false,
-"location": ""
-},
-{
 "cal": "us",
 "title": "Hold for Krueger/Ordoñez Wedding Weekend",
 "start": "2026-11-13",
@@ -172,6 +156,14 @@
 "end": "2026-11-27T19:30",
 "allDay": false,
 "location": "San Diego Zoo Safari Park, 15500 San Pasqual Valley Rd, Escondido, CA 92027"
+},
+{
+"cal": "gigs",
+"title": "Solterra w Yamaoka and Co",
+"start": "2026-11-28T18:00",
+"end": "2026-11-28T21:00",
+"allDay": false,
+"location": ""
 }
 ],
 "rjSessions": [],
@@ -255,6 +247,17 @@
 "url": "https://www.motorsportreg.com/events/fall-2026-event-4-pasr-phoenix-raceway-scca-az-solo-190419"
 },
 {
+"name": "San Diego SCCA Autocross - Dec 5th and 6th",
+"club": "SCCA - San Diego Region - Solo",
+"start": "2026-12-05",
+"end": "2026-12-06",
+"track": "Lake  Elsinore Storm Stadium",
+"city": "Lake Elsinore",
+"region": "CA",
+"miles": 65,
+"url": "https://www.motorsportreg.com/events/san-diego-scca-autocross-dec-5th-6th-lake-elsinore-storm-stadium-solo-447051"
+},
+{
 "name": "Corner Exit Autocross Challenge @ Angel Stadium",
 "club": "Corner Exit",
 "start": "2026-12-06",
@@ -275,6 +278,17 @@
 "region": "NV",
 "miles": 275,
 "url": "https://www.motorsportreg.com/events/lvrscca-autocross-round-10-2026-las-vegas-motor-speed-metro-lot-scca-088884"
+},
+{
+"name": "PCA-SDR Autocross December 6, 2026",
+"club": "PCA - San Diego Region",
+"start": "2026-12-06",
+"end": "2026-12-06",
+"track": "North Island Credit Union Amp",
+"city": "Chula Vista",
+"region": "CA",
+"miles": 13,
+"url": "https://www.motorsportreg.com/events/pca-sdr-autocross-december-6-2026-north-island-credit-union-amp-san-diego-915336"
 },
 {
 "name": "Cal Club Autocross Finale December 12th",
@@ -409,6 +423,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-11-13",
+"autocrossChecked": "2026-11-14",
 "errors": {}
 }
