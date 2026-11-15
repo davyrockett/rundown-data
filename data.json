@@ -6,14 +6,6 @@
 },
 "events": [
 {
-"cal": "us",
-"title": "Hold for Krueger/Ordoñez Wedding Weekend",
-"start": "2026-11-13",
-"end": "2026-11-15",
-"allDay": true,
-"location": ""
-},
-{
 "cal": "personal",
 "title": "Stay at Sarah's Wedding",
 "start": "2026-11-14",
@@ -164,33 +156,35 @@
 "end": "2026-11-28T21:00",
 "allDay": false,
 "location": ""
+},
+{
+"cal": "personal",
+"title": "FUMCCV",
+"start": "2026-11-29T09:30",
+"end": "2026-11-29T12:00",
+"allDay": false,
+"location": ""
+},
+{
+"cal": "personal",
+"title": "Sweater Weather — SDZ Safari Park",
+"start": "2026-11-29T15:15",
+"end": "2026-11-29T19:30",
+"allDay": false,
+"location": "San Diego Zoo Safari Park, 15500 San Pasqual Valley Rd, Escondido, CA 92027"
+},
+{
+"cal": "gigs",
+"title": "Sweater Weather at Wild Holidays",
+"start": "2026-11-29T15:15",
+"end": "2026-11-29T19:30",
+"allDay": false,
+"location": "San Diego Zoo Safari Park, 15500 San Pasqual Valley Rd, Escondido, CA 92027"
 }
 ],
 "rjSessions": [],
 "crossing": null,
 "autocross": [
-{
-"name": "Cal Club Autocross November 14th",
-"club": "SCCA - Cal Club Autocross",
-"start": "2026-11-14",
-"end": "2026-11-14",
-"track": "Storm Stadium - Lake Elsinore",
-"city": "Lake Elsinore",
-"region": "CA",
-"miles": 65,
-"url": "https://www.motorsportreg.com/events/cal-club-autocross-november-14th-storm-stadium-lake-elsinore-scca-324351"
-},
-{
-"name": "CCCR-PCA Autocross #81 11/14/2026",
-"club": "PCA - California Central Coast Region",
-"start": "2026-11-14",
-"end": "2026-11-14",
-"track": "Santa Maria, CA Airport",
-"city": "Santa Maria",
-"region": "CA",
-"miles": 242,
-"url": "https://www.motorsportreg.com/events/cccr-pca-autocross-81-11-14-2026-santa-maria-ca-airport-california-central-coast-783624"
-},
 {
 "name": "LVRSCCA (Autocross) Round 9 - 2026",
 "club": "SCCA - Las Vegas Region",
@@ -423,6 +417,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-11-14",
+"autocrossChecked": "2026-11-15",
 "errors": {}
 }
