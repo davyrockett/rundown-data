@@ -111,6 +111,14 @@
 },
 {
 "cal": "personal",
+"title": "Guitar lesson with Trinity",
+"start": "2026-11-29T12:00",
+"end": "2026-11-29T12:30",
+"allDay": false,
+"location": "First United Methodist Church, Chula Vista"
+},
+{
+"cal": "personal",
 "title": "Sweater Weather — SDZ Safari Park",
 "start": "2026-11-29T15:15",
 "end": "2026-11-29T19:30",
