@@ -212,22 +212,19 @@
 "end": "2026-12-06T12:00",
 "allDay": false,
 "location": ""
+},
+{
+"cal": "personal",
+"title": "david norgren's Zoom Meeting",
+"start": "2026-12-07T17:00",
+"end": "2026-12-07T17:45",
+"allDay": false,
+"location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
 }
 ],
 "rjSessions": [],
 "crossing": null,
 "autocross": [
-{
-"name": "Corner Exit Autocross Challenge @ Angel Stadium",
-"club": "Corner Exit",
-"start": "2026-11-22",
-"end": "2026-11-22",
-"track": "Angel Stadium",
-"city": "Anaheim",
-"region": "CA",
-"miles": 86,
-"url": "https://www.motorsportreg.com/events/corner-exit-angel-stadium-autocross-solo-793429"
-},
 {
 "name": "Autox Nov 28/29, 2026  AZPCA ",
 "club": "PCA - Arizona",
@@ -427,6 +424,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-11-22",
+"autocrossChecked": "2026-11-23",
 "errors": {}
 }
