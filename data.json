@@ -6,38 +6,6 @@
 },
 "events": [
 {
-"cal": "personal",
-"title": "Allison",
-"start": "2026-11-23T13:00",
-"end": "2026-11-23T14:00",
-"allDay": false,
-"location": ""
-},
-{
-"cal": "personal",
-"title": "Go through Wild Holidays orientation (Dave Smith's email)",
-"start": "2026-11-23T14:15",
-"end": "2026-11-23T14:30",
-"allDay": false,
-"location": ""
-},
-{
-"cal": "personal",
-"title": "Rehearsal — Wild Holidays / Sweater Weather (SDZ Safari Park)",
-"start": "2026-11-23T16:30",
-"end": "2026-11-23T17:45",
-"allDay": false,
-"location": "San Diego Zoo Safari Park, 15500 San Pasqual Valley Rd, Escondido, CA 92027"
-},
-{
-"cal": "personal",
-"title": "david norgren's Zoom Meeting",
-"start": "2026-11-23T17:00",
-"end": "2026-11-23T17:45",
-"allDay": false,
-"location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
-},
-{
 "cal": "us",
 "title": "Juju & ChaCha",
 "start": "2026-11-24",
@@ -212,6 +180,14 @@
 "end": "2026-12-07T17:45",
 "allDay": false,
 "location": "https://us05web.zoom.us/j/88402164924?pwd=1jXkGdgBCbKFxToPbkK0uIhNKZjzJa.1"
+},
+{
+"cal": "personal",
+"title": "Wegovy",
+"start": "2026-12-09T15:05",
+"end": "2026-12-09T19:05",
+"allDay": false,
+"location": ""
 }
 ],
 "rjSessions": [],
@@ -416,6 +392,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-11-24",
+"autocrossChecked": "2026-11-25",
 "errors": {}
 }
