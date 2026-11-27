@@ -7,14 +7,6 @@
 "events": [
 {
 "cal": "personal",
-"title": "Wegovy",
-"start": "2026-11-25T15:05",
-"end": "2026-11-25T19:05",
-"allDay": false,
-"location": ""
-},
-{
-"cal": "personal",
 "title": "Call mom",
 "start": "2026-11-26T17:00",
 "end": "2026-11-26T18:00",
@@ -400,6 +392,6 @@
 "url": "https://www.motorsportreg.com/events/fall-2027-event-4-pasr-phoenix-raceway-scca-az-solo-908560"
 }
 ],
-"autocrossChecked": "2026-11-26",
+"autocrossChecked": "2026-11-27",
 "errors": {}
 }
